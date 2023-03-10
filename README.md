@@ -2,9 +2,9 @@
 
 На ПК
 
-<h4>1. Скачивайте <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru" target="_blank">TamperMonkey</a></h4>
-
-<h4>2. Копируйте скрипт <a href="https://pastebin.com/BQTn9Tsk" target="_blank">От сюда</a></h4>
+<h4>1. Скачивайте <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru" target="_blank">TamperMonkey</a>
+2. Копируйте скрипт <a href="https://pastebin.com/BQTn9Tsk" target="_blank">*от сюда*</a>
+3. Влетайте в ПБ, не забывая обновить страницу</h4>
 
 Кнопки:
 1. "f" - показать картинку (Включен по умолчанию)
