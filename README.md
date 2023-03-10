@@ -2,6 +2,8 @@
 
 На ПК
 
+<h1>Скачивайте <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru" target="_blank">TamperMonkey</a>
+
 1. Скачивайте TamperMonkey
 
 
