@@ -1,3 +1,6 @@
+# PixelBattle script
+Скрипт позволяющий облегчить рисование артов на  <a href="https://twitch.tv/place" target="_blank">полотне</a>
+
 <h1>Инструкция:</h1>
 
 На ПК
