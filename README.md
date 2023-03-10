@@ -18,3 +18,7 @@
 
 #### Связь
 [Telegram](https://t.me/cheykovsky) 
+
+
+# 
+Основоно на существующем [скрипте](https://github.com/Oxonomy-pixel/UaPixelBattle)
