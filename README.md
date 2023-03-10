@@ -21,4 +21,4 @@
 
 
 # 
-Основоно на существующем [скрипте](https://github.com/Oxonomy-pixel/UaPixelBattle)
+Основано на существующем [скрипте](https://github.com/Oxonomy-pixel/UaPixelBattle)
