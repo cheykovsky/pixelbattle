@@ -19,5 +19,7 @@
 [Telegram](https://t.me/cheykovsky) 
 (ДАННЫЙ СКРИПТ НЕ ЯВЛЯЕТСЯ АВТОРСКИМ!)
 
+https://user-images.githubusercontent.com/127527383/224512814-19e2cb23-6354-445e-a8bc-bfbe15048c48.mov
+
 # 
 Основано на существующем [скрипте](https://github.com/Oxonomy-pixel/UaPixelBattle)
