@@ -19,6 +19,7 @@
 [Telegram](https://t.me/cheykovsky) 
 (ДАННЫЙ СКРИПТ НЕ ЯВЛЯЕТСЯ АВТОРСКИМ!)
 
+https://raw.githubusercontent.com/cheykovsky/pixelbattle/main/2023-03-12%2002-34-59.mp4
 
 # 
 Основано на существующем [скрипте](https://github.com/Oxonomy-pixel/UaPixelBattle)
