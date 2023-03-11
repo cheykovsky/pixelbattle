@@ -6,11 +6,10 @@
 На ПК
 
 1. Скачивайте <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru" target="_blank">TamperMonkey</a>
-2. Копируйте скрипт <a href="https://pastebin.com/BQTn9Tsk" target="_blank">от сюда</a>
-3. Нажмите на TamperMonkey
-4. Выберите пункт "Создать новый скрипт"
-5. Вставьте скопированный заранее скрипт, полностью очистив поле ввода
-6. Влетайте в ПБ, не забывая обновить страницу</h4>
+2. Устанавливайте скрипт <a href="https://greasyfork.org/ru/scripts/461654-pixelbbatle" target="_blank">от сюда</a>
+3. Влетайте в ПБ, не забывая обновить страницу</h4>
+
+Что бы скрипт работал стабильно, нужно разрешить ему доступ в выплывающем окне
 
 ## Кнопки:
 1. "f" - показать картинку (Включено по умолчанию) / Накладывает картинку поверх полотна
